@@ -11,5 +11,6 @@ urlpatterns = [
     path('crops/<int:pk>/edit/', views.crop_update_view, name='crop_update'),
     path('crops/<int:pk>/delete/', views.crop_delete_view, name='crop_delete'),
     path('crops/<int:crop_pk>/expenses/add/', views.expense_create_view, name='expense_create'),
+    path('crops/<int:crop_pk>/harvests/add/', views.harvest_create_view, name='harvest_create'),
     path('crops/<int:crop_pk>/sales/add/', views.sale_create_view, name='sale_create'),
 ]

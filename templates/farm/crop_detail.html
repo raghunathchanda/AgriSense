@@ -7,6 +7,7 @@
     </div>
     <div class="d-flex gap-2">
         <a href="{% url 'farm:expense_create' crop.pk %}" class="btn btn-success">Add Expense</a>
+        <a href="{% url 'farm:harvest_create' crop.pk %}" class="btn btn-warning">Add Harvest</a>
         <a href="{% url 'farm:sale_create' crop.pk %}" class="btn btn-primary">Add Sale</a>
     </div>
 </div>
@@ -51,6 +52,34 @@
             <p class="h3 mb-0">₹{{ net_profit }}</p>
         </div>
     </div>
+</div>
+
+<div class="card p-3 mb-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h3 class="mb-0">Harvests</h3>
+    </div>
+    <table class="table table-striped table-hover align-middle mb-0">
+        <thead class="table-light">
+            <tr>
+                <th>Date</th>
+                <th>Quantity</th>
+                <th>Unit</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for harvest in harvests %}
+        <tr>
+            <td>{{ harvest.harvest_date }}</td>
+            <td>{{ harvest.quantity }}</td>
+            <td>{{ harvest.unit }}</td>
+            <td>{{ harvest.notes|default:'-' }}</td>
+        </tr>
+        {% empty %}
+        <tr><td colspan="4" class="text-center">No harvest recorded yet.</td></tr>
+        {% endfor %}
+        </tbody>
+    </table>
 </div>
 
 <div class="card p-3 mb-4">

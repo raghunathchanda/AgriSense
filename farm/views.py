@@ -124,6 +124,24 @@ def expense_create_view(request, crop_pk):
 
 @login_required
 @never_cache
+def harvest_create_view(request, crop_pk):
+    crop = get_object_or_404(Crop, pk=crop_pk, farmer=request.user)
+
+    if request.method == 'POST':
+        Harvest.objects.create(
+            crop=crop,
+            harvest_date=request.POST.get('harvest_date'),
+            quantity=request.POST.get('quantity'),
+            unit=request.POST.get('unit', 'kg'),
+            notes=request.POST.get('notes', ''),
+        )
+        return redirect('farm:crop_detail', pk=crop.pk)
+
+    return render(request, 'farm/harvest_form.html', {'crop': crop})
+
+
+@login_required
+@never_cache
 def sale_create_view(request, crop_pk):
     crop = get_object_or_404(Crop, pk=crop_pk, farmer=request.user)
     harvests = crop.harvests.all()
