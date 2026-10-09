@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'accounts',
+    'farm',
 ]
 
 MIDDLEWARE = [
@@ -47,6 +49,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'AgriSense.middleware.NoCacheMiddleware',
 ]
 
 ROOT_URLCONF = 'AgriSense.urls'
@@ -54,7 +57,7 @@ ROOT_URLCONF = 'AgriSense.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -120,3 +123,11 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Authentication Redirects
+# settings.py
+
+# Update this line:
+LOGIN_REDIRECT_URL = 'farm:dashboard'
+LOGOUT_REDIRECT_URL = 'accounts:login'
+LOGIN_URL = 'accounts:login'

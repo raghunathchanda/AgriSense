@@ -14,9 +14,17 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+# AgriSense/urls.py
+
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
+from django.shortcuts import redirect
 
 urlpatterns = [
+    # Redirect root URL (http://127.0.0.1:8000/) directly to login
+    path('', lambda request: redirect('accounts:login')),
+
     path('admin/', admin.site.urls),
+    path('accounts/', include('accounts.urls')),
+    path('farm/', include('farm.urls')),
 ]

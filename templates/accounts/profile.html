@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card p-4 mt-4">
+    <h2 class="mb-3">Farmer Profile</h2>
+    <p><strong>Name:</strong> {{ user.get_full_name }}</p>
+    <p><strong>Username:</strong> {{ user.username }}</p>
+    <p><strong>Email:</strong> {{ user.email }}</p>
+
+    <h3 class="mt-4 mb-3">Update Location & Details</h3>
+    <form method="post">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label class="form-label">Mobile</label>
+            <input type="text" name="mobile" class="form-control" value="{{ profile.mobile }}">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Village</label>
+            <input type="text" name="village" class="form-control" value="{{ profile.village }}">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">District</label>
+            <input type="text" name="district" class="form-control" value="{{ profile.district }}">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">State</label>
+            <input type="text" name="state" class="form-control" value="{{ profile.state }}">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Total Land (Acres)</label>
+            <input type="number" step="0.01" name="total_land_acres" class="form-control" value="{{ profile.total_land_acres }}">
+        </div>
+        <button type="submit" class="btn btn-success">Update Profile</button>
+    </form>
+</div>
+{% endblock %}
