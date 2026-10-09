@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "రైతు పంట నిర్వహణ"
+
+msgid "Farmer App"
+msgstr "రైతు యాప్"
+
+msgid "Dashboard"
+msgstr "డాష్‌బోర్డ్"
+
+msgid "My Crops"
+msgstr "నా పంటలు"
+
+msgid "Profile"
+msgstr "ప్రొఫైల్"
+
+msgid "Login"
+msgstr "లాగిన్"
+
+msgid "Register"
+msgstr "నమోదు"
+
+msgid "Logout"
+msgstr "లాగ్అవుట్"
+
+msgid "Smart crop planning for every season"
+msgstr "ప్రతి సీజన్‌కి మేధావి పంట ప్రణాళిక"
+
+msgid "Farmer Login"
+msgstr "రైతు లాగిన్"
+
+msgid "Invalid username or password."
+msgstr "చెల్లని వాడుకరి పేరు లేదా పాస్‌వర్డ్."
+
+msgid "Username"
+msgstr "వాడుకరి పేరు"
+
+msgid "Password"
+msgstr "పాస్‌వర్డ్"
+
+msgid "Farmer Registration"
+msgstr "రైతు నమోదుకు"
+
+msgid "Email"
+msgstr "ఇమెయిల్"
+
+msgid "First Name"
+msgstr "మొదటి పేరు"
+
+msgid "Last Name"
+msgstr "చివరి పేరు"
+
+msgid "Mobile Number"
+msgstr "మొబైల్ నంబర్"
+
+msgid "Village"
+msgstr "గ్రామం"
+
+msgid "District"
+msgstr "జిల్లా"
+
+msgid "State"
+msgstr "రాష్ట్రం"
+
+msgid "Confirm Password"
+msgstr "పాస్‌వర్డ్‌ను నిర్ధారించండి"
+
+msgid "Farmer Profile"
+msgstr "రైతు ప్రొఫైల్"
+
+msgid "Name"
+msgstr "పేరు"
+
+msgid "Update Location & Details"
+msgstr "స్థానం మరియు వివరాలను నవీకరించండి"
+
+msgid "Mobile"
+msgstr "మొబైల్"
+
+msgid "Total Land (Acres)"
+msgstr "మొత్తం భూమి (ఎకరాలు)"
+
+msgid "Update Profile"
+msgstr "ప్రొఫైల్‌ను నవీకరించండి"
+
+msgid "Dashboard Summary"
+msgstr "డాష్‌బోర్డ్ సారాంశం"
+
+msgid "Overview of your current farming performance"
+msgstr "మీ ప్రస్తుత వ్యవసాయ పనితీరు సారాంశం"
+
+msgid "Add New Crop"
+msgstr "కొత్త పంటను జోడించండి"
+
+msgid "Active"
+msgstr "చురుకుగా"
+
+msgid "Active Crops"
+msgstr "చురుకుగా ఉండే పంటలు"
+
+msgid "Area"
+msgstr "ప్రాంతం"
+
+msgid "Total Investment"
+msgstr "మొత్తం పెట్టుబడి"
+
+msgid "Total Sales"
+msgstr "మొత్తం అమ్మకాలు"
+
+msgid "Net Profit/Loss"
+msgstr "నికర లాభం/నష్టం"
+
+msgid "Recent Crops"
+msgstr "ఇటీవల పంటలు"
+
+msgid "Crop"
+msgstr "పంట"
+
+msgid "Variety"
+msgstr "రకం"
+
+msgid "Acres"
+msgstr "ఎకరాలు"
+
+msgid "Status"
+msgstr "స్థితి"
+
+msgid "Action"
+msgstr "చర్య"
+
+msgid "View"
+msgstr "వీక్షించండి"
+
+msgid "No crops added yet."
+msgstr "ఇంకా పంటలు జోడించబడలేదు."
+
+msgid "No crops found."
+msgstr "పంటలు లభించలేదు."
+
+msgid "Add Crop"
+msgstr "పంట జోడించండి"
+
+msgid "Planned"
+msgstr "ప్రణాళిక చేయబడిన"
+
+msgid "Growing"
+msgstr "పెరుగుతున్న"
+
+msgid "Harvested"
+msgstr "కట్టిన"
+
+msgid "Failed"
+msgstr "విఫలమైన"
+
+msgid "Notes"
+msgstr "గమనికలు"
+
+msgid "Save Crop"
+msgstr "పంటను సేవ్ చేయండి"
+
+msgid "Season"
+msgstr "సీజన్"
+
+msgid "Start Date"
+msgstr "ప్రారంభ తేదీ"
+
+msgid "Expected Harvest Date"
+msgstr "అంచనా దిగుబడి తేదీ"
+
+msgid "Actual Harvest Date"
+msgstr "వాస్తవ దిగుబడి తేదీ"
+
+msgid "Save Expense"
+msgstr "ఖర్చును సేవ్ చేయండి"
+
+msgid "Add Expense"
+msgstr "ఖర్చును జోడించండి"
+
+msgid "Cancel"
+msgstr "రద్దు"
+
+msgid "Expense Date"
+msgstr "ఖర్చు తేదీ"
+
+msgid "Category"
+msgstr "వర్గం"
+
+msgid "Amount"
+msgstr "మొత్తం"
+
+msgid "Quantity (Optional)"
+msgstr "మొత్తం (ఐచ్చికం)"
+
+msgid "Description"
+msgstr "వివరణ"
+
+msgid "Buyer"
+msgstr "కొనుగోని"
+
+msgid "Sale Date"
+msgstr "అమ్మకపు తేదీ"
+
+msgid "Quantity Sold"
+msgstr "అమ్మిన పరిమాణం"
+
+msgid "Unit Price"
+msgstr "యూనిట్ ధర"
+
+msgid "Selling Cost"
+msgstr "అమ్మకం ఖర్చు"
+
+msgid "Harvest"
+msgstr "దిగుబడి"
+
+msgid "Select harvest"
+msgstr "దిగుబడిని ఎంచుకోండి"
+
+msgid "Add Sale"
+msgstr "అమ్మకాన్ని జోడించండి"
+
+msgid "Save Sale"
+msgstr "అమ్మకాన్ని సేవ్ చేయండి"
+
+msgid "Sales"
+msgstr "అమ్మకాలు"
+
+msgid "Expenses"
+msgstr "ఖర్చులు"
+
+msgid "Harvests"
+msgstr "దిగుబడులు"
+
+msgid "No expenses recorded yet."
+msgstr "ఇంకా ఖర్చులు నమోదు కాలేదు."
+
+msgid "No sales recorded yet."
+msgstr "ఇంకా అమ్మకాలు నమోదు కాలేదు."
+
+msgid "Quantity"
+msgstr "మొత్తం"
+
+msgid "Unit"
+msgstr "యూనిట్"
+
+msgid "Add Harvest"
+msgstr "దిగుబడిని జోడించండి"
+
+msgid "Save Harvest"
+msgstr "దిగుబడిని సేవ్ చేయండి"
+
+msgid "Harvest Date"
+msgstr "దిగుబడి తేదీ"
+
+msgid "No harvest recorded yet."
+msgstr "ఇంకా దిగుబడి నమోదు కాలేదు."
+
+msgid "Edit"
+msgstr "సవరించు"
+
+msgid "Delete"
+msgstr "తొలగించు"
+
+msgid "Actions"
+msgstr "చర్యలు"
+
+msgid "Spent"
+msgstr "ఖర్చు"
+
+msgid "Income"
+msgstr "ఆదాయం"
+
+msgid "Result"
+msgstr "ఫలితం"
+
+msgid "Overview of your current farming performance"
+msgstr "మీ ప్రస్తుత వ్యవసాయ పనితీరు సారాంశం"
+
+msgid "No crops added yet."
+msgstr "ఇంకా పంటలు జోడించబడలేదు."
+
+msgid "No crops found."
+msgstr "పంటలు లభించలేదు."
+
+msgid "Farmer Login"
+msgstr "రైతు లాగిన్"
+
+msgid "Farmer Registration"
+msgstr "రైతు నమోదుకు"
+
+msgid "Update Location & Details"
+msgstr "స్థానం మరియు వివరాలను నవీకరించండి"
+
+msgid "Crop Name"
+msgstr "పంట పేరు"
+
+msgid "Save Harvest"
+msgstr "దిగుబడిని సేవ్ చేయండి"
+
+msgid "Save Expense"
+msgstr "ఖర్చును సేవ్ చేయండి"
+
+msgid "Save Sale"
+msgstr "అమ్మకాన్ని సేవ్ చేయండి"
+
+msgid "Save Crop"
+msgstr "పంటను సేవ్ చేయండి"
+

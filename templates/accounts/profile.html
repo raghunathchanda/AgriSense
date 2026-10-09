@@ -1,35 +1,36 @@
 {% extends 'base.html' %}
+{% load i18n %}
 {% block content %}
 <div class="card p-4 mt-4">
-    <h2 class="mb-3">Farmer Profile</h2>
-    <p><strong>Name:</strong> {{ user.get_full_name }}</p>
-    <p><strong>Username:</strong> {{ user.username }}</p>
-    <p><strong>Email:</strong> {{ user.email }}</p>
+    <h2 class="mb-3">{% trans "Farmer Profile" %}</h2>
+    <p><strong>{% trans "Name" %}:</strong> {{ user.get_full_name }}</p>
+    <p><strong>{% trans "Username" %}:</strong> {{ user.username }}</p>
+    <p><strong>{% trans "Email" %}:</strong> {{ user.email }}</p>
 
-    <h3 class="mt-4 mb-3">Update Location & Details</h3>
+    <h3 class="mt-4 mb-3">{% trans "Update Location & Details" %}</h3>
     <form method="post">
         {% csrf_token %}
         <div class="mb-3">
-            <label class="form-label">Mobile</label>
+            <label class="form-label">{% trans "Mobile" %}</label>
             <input type="text" name="mobile" class="form-control" value="{{ profile.mobile }}">
         </div>
         <div class="mb-3">
-            <label class="form-label">Village</label>
+            <label class="form-label">{% trans "Village" %}</label>
             <input type="text" name="village" class="form-control" value="{{ profile.village }}">
         </div>
         <div class="mb-3">
-            <label class="form-label">District</label>
+            <label class="form-label">{% trans "District" %}</label>
             <input type="text" name="district" class="form-control" value="{{ profile.district }}">
         </div>
         <div class="mb-3">
-            <label class="form-label">State</label>
+            <label class="form-label">{% trans "State" %}</label>
             <input type="text" name="state" class="form-control" value="{{ profile.state }}">
         </div>
         <div class="mb-3">
-            <label class="form-label">Total Land (Acres)</label>
+            <label class="form-label">{% trans "Total Land (Acres)" %}</label>
             <input type="number" step="0.01" name="total_land_acres" class="form-control" value="{{ profile.total_land_acres }}">
         </div>
-        <button type="submit" class="btn btn-success">Update Profile</button>
+        <button type="submit" class="btn btn-success">{% trans "Update Profile" %}</button>
     </form>
 </div>
 {% endblock %}

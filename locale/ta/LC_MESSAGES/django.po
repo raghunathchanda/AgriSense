@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "விவசாயி பயிர் மேலாண்மை"
+
+msgid "Farmer App"
+msgstr "விவசாயி செயலி"
+
+msgid "Dashboard"
+msgstr "டாஷ்போர்டு"
+
+msgid "My Crops"
+msgstr "எனது பயிர்கள்"
+
+msgid "Profile"
+msgstr "சுயவிவரம்"
+
+msgid "Login"
+msgstr "உள்நுழை"
+
+msgid "Register"
+msgstr "பதிவு"
+
+msgid "Logout"
+msgstr "வெளியேறு"
+
+msgid "Smart crop planning for every season"
+msgstr "ஒவ்வொரு பருவத்துக்கும் புத்திசாலித்தனமான பயிர் திட்டமிடல்"
+
+msgid "Farmer Login"
+msgstr "விவசாயி உள்நுழைவு"
+
+msgid "Invalid username or password."
+msgstr "தவறான பயனர்பெயர் அல்லது கடவுச்சொல்."
+
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+msgid "Farmer Registration"
+msgstr "விவசாயி பதிவு"
+
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+msgid "First Name"
+msgstr "முதல் பெயர்"
+
+msgid "Last Name"
+msgstr "கடைசி பெயர்"
+
+msgid "Mobile Number"
+msgstr "மொபைல் எண்"
+
+msgid "Village"
+msgstr "கிராமம்"
+
+msgid "District"
+msgstr "மாவட்டம்"
+
+msgid "State"
+msgstr "மாநிலம்"
+
+msgid "Confirm Password"
+msgstr "கடவுச்சொல்லை உறுதிப்படுத்துக"
+
+msgid "Farmer Profile"
+msgstr "விவசாயி சுயவிவரம்"
+
+msgid "Name"
+msgstr "பெயர்"
+
+msgid "Update Location & Details"
+msgstr "இடம் மற்றும் விவரங்களை புதுப்பிக்கவும்"
+
+msgid "Mobile"
+msgstr "மொபைல்"
+
+msgid "Total Land (Acres)"
+msgstr "மொத்த நிலம் (ஏக்கர்கள்)"
+
+msgid "Update Profile"
+msgstr "சுயவிவரத்தை புதுப்பி"
+
+msgid "Dashboard Summary"
+msgstr "டாஷ்போர்டு சுருக்கம்"
+
+msgid "Overview of your current farming performance"
+msgstr "தற்போதைய விவசாய செயல்திறன் கண்ணோட்டம்"
+
+msgid "Add New Crop"
+msgstr "புதிய பயிர் சேர்க்க"
+
+msgid "Active"
+msgstr "செயலில்"
+
+msgid "Active Crops"
+msgstr "செயலில் உள்ள பயிர்கள்"
+
+msgid "Area"
+msgstr "பரப்பு"
+
+msgid "Total Investment"
+msgstr "மொத்த முதலீடு"
+
+msgid "Total Sales"
+msgstr "மொத்த விற்பனை"
+
+msgid "Net Profit/Loss"
+msgstr "நிகர லாபம்/நஷ்டம்"
+
+msgid "Recent Crops"
+msgstr "சமீபத்திய பயிர்கள்"
+
+msgid "Crop"
+msgstr "பயிர்"
+
+msgid "Variety"
+msgstr "வகை"
+
+msgid "Acres"
+msgstr "ஏக்கர்கள்"
+
+msgid "Status"
+msgstr "நிலை"
+
+msgid "Action"
+msgstr "செயல்"
+
+msgid "View"
+msgstr "பார்"
+
+msgid "No crops added yet."
+msgstr "இதுவரை எந்த பயிர்களும் சேர்க்கப்படவில்லை."
+
+msgid "No crops found."
+msgstr "பயிர்கள் கிடைக்கவில்லை."
+
+msgid "Add Crop"
+msgstr "பயிர் சேர்க்க"
+
+msgid "Planned"
+msgstr "திட்டமிடப்பட்டது"
+
+msgid "Growing"
+msgstr "வளர்ந்து கொண்டுள்ளது"
+
+msgid "Harvested"
+msgstr "அறுவடை செய்யப்பட்டது"
+
+msgid "Failed"
+msgstr "தோல்வியடைந்தது"
+
+msgid "Notes"
+msgstr "குறிப்புகள்"
+
+msgid "Save Crop"
+msgstr "பயிரை சேமி"
+
+msgid "Season"
+msgstr "மழைக்காலம்"
+
+msgid "Start Date"
+msgstr "தொடங்கும் தேதி"
+
+msgid "Expected Harvest Date"
+msgstr "எதிர்பார்க்கப்படும் அறுவடை தேதி"
+
+msgid "Actual Harvest Date"
+msgstr "உண்மையான அறுவடை தேதி"
+
+msgid "Save Expense"
+msgstr "செலவினத்தை சேமி"
+
+msgid "Add Expense"
+msgstr "செலவினத்தை சேர்க்க"
+
+msgid "Cancel"
+msgstr "ரத்து"
+
+msgid "Expense Date"
+msgstr "செலவு தேதி"
+
+msgid "Category"
+msgstr "வகை"
+
+msgid "Amount"
+msgstr "தொகை"
+
+msgid "Quantity (Optional)"
+msgstr "அளவு (விருப்பத்தேர்வு)"
+
+msgid "Description"
+msgstr "விளக்கம்"
+
+msgid "Buyer"
+msgstr "வாங்குபவர்"
+
+msgid "Sale Date"
+msgstr "விற்பனை தேதி"
+
+msgid "Quantity Sold"
+msgstr "விற்கப்பட்ட அளவு"
+
+msgid "Unit Price"
+msgstr "ஒன்றின் விலை"
+
+msgid "Selling Cost"
+msgstr "விற்பனை செலவு"
+
+msgid "Harvest"
+msgstr "அறுவடை"
+
+msgid "Select harvest"
+msgstr "அறுவடையை தேர்ந்தெடு"
+
+msgid "Add Sale"
+msgstr "விற்பனையை சேர்க்க"
+
+msgid "Save Sale"
+msgstr "விற்பனையை சேமி"
+
+msgid "Sales"
+msgstr "விற்பனை"
+
+msgid "Expenses"
+msgstr "செலவுகள்"
+
+msgid "Harvests"
+msgstr "அறுவடைகள்"
+
+msgid "No expenses recorded yet."
+msgstr "இதுவரை எந்த செலவுகளும் பதிவு செய்யப்படவில்லை."
+
+msgid "No sales recorded yet."
+msgstr "இதுவரை எந்த விற்பனையும் பதிவு செய்யப்படவில்லை."
+
+msgid "Quantity"
+msgstr "அளவு"
+
+msgid "Unit"
+msgstr "அலகு"
+
+msgid "Add Harvest"
+msgstr "அறுவடை சேர்க்க"
+
+msgid "Save Harvest"
+msgstr "அறுவடையை சேமி"
+
+msgid "Harvest Date"
+msgstr "அறுவடை தேதி"
+
+msgid "No harvest recorded yet."
+msgstr "இதுவரை எந்த அறுவடையும் பதிவு செய்யப்படவில்லை."
+
+msgid "Edit"
+msgstr "திருத்து"
+
+msgid "Delete"
+msgstr "நீக்கு"
+
+msgid "Actions"
+msgstr "செயல்கள்"
+
+msgid "Spent"
+msgstr "செலவிட்டது"
+
+msgid "Income"
+msgstr "வருமானம்"
+
+msgid "Result"
+msgstr "முடிவு"
+
+msgid "Overview of your current farming performance"
+msgstr "தற்போதைய விவசாய செயல்திறன் கண்ணோட்டம்"
+
+msgid "No crops added yet."
+msgstr "இதுவரை எந்த பயிர்களும் சேர்க்கப்படவில்லை."
+
+msgid "No crops found."
+msgstr "பயிர்கள் கிடைக்கவில்லை."
+
+msgid "Farmer Login"
+msgstr "விவசாயி உள்நுழைவு"
+
+msgid "Farmer Registration"
+msgstr "விவசாயி பதிவு"
+
+msgid "Update Location & Details"
+msgstr "இடம் மற்றும் விவரங்களை புதுப்பிக்கவும்"
+
+msgid "Crop Name"
+msgstr "பயிரின் பெயர்"
+
+msgid "Save Harvest"
+msgstr "அறுவடையை சேமி"
+
+msgid "Save Expense"
+msgstr "செலவினத்தை சேமி"
+
+msgid "Save Sale"
+msgstr "விற்பனையை சேமி"
+
+msgid "Save Crop"
+msgstr "பயிரை சேமி"
+

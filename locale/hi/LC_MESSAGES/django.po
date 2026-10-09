@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "कृषि प्रबंधन"
+
+msgid "Farmer App"
+msgstr "किसान ऐप"
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+msgid "My Crops"
+msgstr "मेरी फसलें"
+
+msgid "Profile"
+msgstr "प्रोफ़ाइल"
+
+msgid "Login"
+msgstr "लॉग इन"
+
+msgid "Register"
+msgstr "रजिस्टर"
+
+msgid "Logout"
+msgstr "लॉग आउट"
+
+msgid "Smart crop planning for every season"
+msgstr "हर मौसम के लिए स्मार्ट फसल योजना"
+
+msgid "Farmer Login"
+msgstr "किसान लॉगिन"
+
+msgid "Invalid username or password."
+msgstr "अमान्य उपयोगकर्ता नाम या पासवर्ड।"
+
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "Farmer Registration"
+msgstr "किसान पंजीकरण"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "First Name"
+msgstr "पहला नाम"
+
+msgid "Last Name"
+msgstr "अंतिम नाम"
+
+msgid "Mobile Number"
+msgstr "मोबाइल नंबर"
+
+msgid "Village"
+msgstr "गाँव"
+
+msgid "District"
+msgstr "जिला"
+
+msgid "State"
+msgstr "राज्य"
+
+msgid "Confirm Password"
+msgstr "पासवर्ड की पुष्टि करें"
+
+msgid "Farmer Profile"
+msgstr "किसान प्रोफ़ाइल"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "Update Location & Details"
+msgstr "स्थान और विवरण अपडेट करें"
+
+msgid "Mobile"
+msgstr "मोबाइल"
+
+msgid "Total Land (Acres)"
+msgstr "कुल भूमि (एकड़)"
+
+msgid "Update Profile"
+msgstr "प्रोफ़ाइल अपडेट करें"
+
+msgid "Dashboard Summary"
+msgstr "डैशबोर्ड सारांश"
+
+msgid "Overview of your current farming performance"
+msgstr "आपके वर्तमान कृषि प्रदर्शन का सारांश"
+
+msgid "Add New Crop"
+msgstr "नई फसल जोड़ें"
+
+msgid "Active"
+msgstr "सक्रिय"
+
+msgid "Active Crops"
+msgstr "सक्रिय फसलें"
+
+msgid "Area"
+msgstr "क्षेत्रफल"
+
+msgid "Total Investment"
+msgstr "कुल निवेश"
+
+msgid "Total Sales"
+msgstr "कुल बिक्री"
+
+msgid "Net Profit/Loss"
+msgstr "शुद्ध लाभ/हानि"
+
+msgid "Recent Crops"
+msgstr "हाल की फसलें"
+
+msgid "Crop"
+msgstr "फसल"
+
+msgid "Variety"
+msgstr "प्रजाति"
+
+msgid "Acres"
+msgstr "एकड़"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "Action"
+msgstr "कार्य"
+
+msgid "View"
+msgstr "देखें"
+
+msgid "No crops added yet."
+msgstr "अभी तक कोई फसल नहीं जोड़ी गई है।"
+
+msgid "No crops found."
+msgstr "कोई फसल नहीं मिली।"
+
+msgid "Add Crop"
+msgstr "फसल जोड़ें"
+
+msgid "Planned"
+msgstr "नियोजित"
+
+msgid "Growing"
+msgstr "बढ़ रही"
+
+msgid "Harvested"
+msgstr "कटाई हुई"
+
+msgid "Failed"
+msgstr "असफल"
+
+msgid "Notes"
+msgstr "नोट्स"
+
+msgid "Save Crop"
+msgstr "फसल सेव करें"
+
+msgid "Season"
+msgstr "सीजन"
+
+msgid "Start Date"
+msgstr "शुरुआत की तारीख"
+
+msgid "Expected Harvest Date"
+msgstr "अपेक्षित कटाई तिथि"
+
+msgid "Actual Harvest Date"
+msgstr "वास्तविक कटाई तिथि"
+
+msgid "Save Expense"
+msgstr "खर्च सेव करें"
+
+msgid "Add Expense"
+msgstr "खर्च जोड़ें"
+
+msgid "Cancel"
+msgstr "रद्द करें"
+
+msgid "Expense Date"
+msgstr "खर्च तिथि"
+
+msgid "Category"
+msgstr "श्रेणी"
+
+msgid "Amount"
+msgstr "राशि"
+
+msgid "Quantity (Optional)"
+msgstr "मात्रा (वैकल्पिक)"
+
+msgid "Description"
+msgstr "विवरण"
+
+msgid "Buyer"
+msgstr "खरीदार"
+
+msgid "Sale Date"
+msgstr "बिक्री तिथि"
+
+msgid "Quantity Sold"
+msgstr "बेची गई मात्रा"
+
+msgid "Unit Price"
+msgstr "इकाई कीमत"
+
+msgid "Selling Cost"
+msgstr "बिक्री लागत"
+
+msgid "Harvest"
+msgstr "कटाई"
+
+msgid "Select harvest"
+msgstr "कटाई चुनें"
+
+msgid "Add Sale"
+msgstr "बिक्री जोड़ें"
+
+msgid "Save Sale"
+msgstr "बिक्री सेव करें"
+
+msgid "Sales"
+msgstr "बिक्री"
+
+msgid "Expenses"
+msgstr "खर्च"
+
+msgid "Harvests"
+msgstr "कटाई"
+
+msgid "No expenses recorded yet."
+msgstr "अभी तक कोई खर्च दर्ज नहीं हुआ है।"
+
+msgid "No sales recorded yet."
+msgstr "अभी तक कोई बिक्री दर्ज नहीं हुई है।"
+
+msgid "Quantity"
+msgstr "मात्रा"
+
+msgid "Unit"
+msgstr "इकाई"
+
+msgid "Add Harvest"
+msgstr "कटाई जोड़ें"
+
+msgid "Save Harvest"
+msgstr "कटाई सेव करें"
+
+msgid "Harvest Date"
+msgstr "कटाई तिथि"
+
+msgid "No harvest recorded yet."
+msgstr "अभी तक कोई कटाई दर्ज नहीं हुई है।"
+
+msgid "Edit"
+msgstr "संपादित करें"
+
+msgid "Delete"
+msgstr "मिटाएं"
+
+msgid "Actions"
+msgstr "क्रियाएं"
+
+msgid "Spent"
+msgstr "खर्च"
+
+msgid "Income"
+msgstr "आय"
+
+msgid "Result"
+msgstr "परिणाम"
+
+msgid "Overview of your current farming performance"
+msgstr "आपके वर्तमान कृषि प्रदर्शन का सारांश"
+
+msgid "No crops added yet."
+msgstr "अभी तक कोई फसल नहीं जोड़ी गई है।"
+
+msgid "No crops found."
+msgstr "कोई फसल नहीं मिली।"
+
+msgid "Farmer Login"
+msgstr "किसान लॉगिन"
+
+msgid "Farmer Registration"
+msgstr "किसान पंजीकरण"
+
+msgid "Update Location & Details"
+msgstr "स्थान और विवरण अपडेट करें"
+
+msgid "Crop Name"
+msgstr "फसल का नाम"
+
+msgid "Save Harvest"
+msgstr "कटाई सेव करें"
+
+msgid "Save Expense"
+msgstr "खर्च सेव करें"
+
+msgid "Save Sale"
+msgstr "बिक्री सेव करें"
+
+msgid "Save Crop"
+msgstr "फसल सेव करें"
+

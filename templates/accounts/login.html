@@ -1,26 +1,27 @@
 {% extends 'base.html' %}
+{% load i18n %}
 
 {% block content %}
 <div class="row justify-content-center">
     <div class="col-md-5">
         <div class="card p-4 mt-4">
-            <h2 class="mb-4">Farmer Login</h2>
+            <h2 class="mb-4">{% trans "Farmer Login" %}</h2>
 
             {% if form.errors %}
-                <div class="alert alert-danger">Invalid username or password.</div>
+                <div class="alert alert-danger">{% trans "Invalid username or password." %}</div>
             {% endif %}
 
             <form method="post">
                 {% csrf_token %}
                 <div class="mb-3">
-                    <label class="form-label">Username</label>
+                    <label class="form-label">{% trans "Username" %}</label>
                     <input type="text" name="username" class="form-control" required>
                 </div>
                 <div class="mb-3">
-                    <label class="form-label">Password</label>
+                    <label class="form-label">{% trans "Password" %}</label>
                     <input type="password" name="password" class="form-control" required>
                 </div>
-                <button type="submit" class="btn btn-success w-100">Login</button>
+                <button type="submit" class="btn btn-success w-100">{% trans "Login" %}</button>
             </form>
         </div>
     </div>

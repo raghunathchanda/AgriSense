@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "शेतकरी पिके व्यवस्थापन"
+
+msgid "Farmer App"
+msgstr "शेतकरी अॅप"
+
+msgid "Dashboard"
+msgstr "डॅशबोर्ड"
+
+msgid "My Crops"
+msgstr "माझ्या पिके"
+
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+msgid "Login"
+msgstr "लॉगिन"
+
+msgid "Register"
+msgstr "नोंदणी"
+
+msgid "Logout"
+msgstr "लॉगआउट"
+
+msgid "Smart crop planning for every season"
+msgstr "प्रत्येक हंगामासाठी स्मार्ट पीक नियोजन"
+
+msgid "Farmer Login"
+msgstr "शेतकरी लॉगिन"
+
+msgid "Invalid username or password."
+msgstr "अवैध वापरकर्तानाव किंवा पासवर्ड."
+
+msgid "Username"
+msgstr "वापरकर्तानाव"
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "Farmer Registration"
+msgstr "शेतकरी नोंदणी"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "First Name"
+msgstr "पहिले नाव"
+
+msgid "Last Name"
+msgstr "आडनाव"
+
+msgid "Mobile Number"
+msgstr "मोबाइल नंबर"
+
+msgid "Village"
+msgstr "गाव"
+
+msgid "District"
+msgstr "जिल्हा"
+
+msgid "State"
+msgstr "राज्य"
+
+msgid "Confirm Password"
+msgstr "पासवर्डची पुष्टी करा"
+
+msgid "Farmer Profile"
+msgstr "शेतकरी प्रोफाइल"
+
+msgid "Name"
+msgstr "नाव"
+
+msgid "Update Location & Details"
+msgstr "स्थान आणि तपशील अपडेट करा"
+
+msgid "Mobile"
+msgstr "मोबाइल"
+
+msgid "Total Land (Acres)"
+msgstr "एकूण जमीन (एकर)"
+
+msgid "Update Profile"
+msgstr "प्रोफाइल अपडेट करा"
+
+msgid "Dashboard Summary"
+msgstr "डॅशबोर्ड सारांश"
+
+msgid "Overview of your current farming performance"
+msgstr "तुमच्या सध्याच्या शेती कामगिरीचा Überblick"
+
+msgid "Add New Crop"
+msgstr "नवीन पीक जोडा"
+
+msgid "Active"
+msgstr "सक्रिय"
+
+msgid "Active Crops"
+msgstr "सक्रिय पीके"
+
+msgid "Area"
+msgstr "क्षेत्र"
+
+msgid "Total Investment"
+msgstr "एकूण गुंतवणूक"
+
+msgid "Total Sales"
+msgstr "एकूण विक्री"
+
+msgid "Net Profit/Loss"
+msgstr "निव्वळ नफा/तोटा"
+
+msgid "Recent Crops"
+msgstr "अलीकडील पीके"
+
+msgid "Crop"
+msgstr "पीक"
+
+msgid "Variety"
+msgstr "प्रकार"
+
+msgid "Acres"
+msgstr "एकर"
+
+msgid "Status"
+msgstr "स्थिती"
+
+msgid "Action"
+msgstr "क्रिया"
+
+msgid "View"
+msgstr "पहा"
+
+msgid "No crops added yet."
+msgstr "अद्याप कोणतीही पीक जोडलेली नाही."
+
+msgid "No crops found."
+msgstr "कोणतीही पीक सापडली नाही."
+
+msgid "Add Crop"
+msgstr "पीक जोडा"
+
+msgid "Planned"
+msgstr "नियोजित"
+
+msgid "Growing"
+msgstr "वाढत आहे"
+
+msgid "Harvested"
+msgstr "कापणी झाली"
+
+msgid "Failed"
+msgstr "अयशस्वी"
+
+msgid "Notes"
+msgstr "नोंदी"
+
+msgid "Save Crop"
+msgstr "पीक जतन करा"
+
+msgid "Season"
+msgstr "हंगाम"
+
+msgid "Start Date"
+msgstr "सुरुवातीची तारीख"
+
+msgid "Expected Harvest Date"
+msgstr "अपेक्षित कापणी तारीख"
+
+msgid "Actual Harvest Date"
+msgstr "वास्तविक कापणी तारीख"
+
+msgid "Save Expense"
+msgstr "खर्च जतन करा"
+
+msgid "Add Expense"
+msgstr "खर्च जोडा"
+
+msgid "Cancel"
+msgstr "रद्द करा"
+
+msgid "Expense Date"
+msgstr "खर्च तारीख"
+
+msgid "Category"
+msgstr "श्रेणी"
+
+msgid "Amount"
+msgstr "रक्कम"
+
+msgid "Quantity (Optional)"
+msgstr "प्रमाण (पर्यायी)"
+
+msgid "Description"
+msgstr "वर्णन"
+
+msgid "Buyer"
+msgstr "खरेदीदार"
+
+msgid "Sale Date"
+msgstr "विक्री तारीख"
+
+msgid "Quantity Sold"
+msgstr "विकलेले प्रमाण"
+
+msgid "Unit Price"
+msgstr "युनिट किंमत"
+
+msgid "Selling Cost"
+msgstr "विक्री खर्च"
+
+msgid "Harvest"
+msgstr "कापणी"
+
+msgid "Select harvest"
+msgstr "कापणी निवडा"
+
+msgid "Add Sale"
+msgstr "विक्री जोडा"
+
+msgid "Save Sale"
+msgstr "विक्री जतन करा"
+
+msgid "Sales"
+msgstr "विक्री"
+
+msgid "Expenses"
+msgstr "खर्च"
+
+msgid "Harvests"
+msgstr "कापण्या"
+
+msgid "No expenses recorded yet."
+msgstr "अद्याप कोणतेही खर्च नोंदवलेले नाहीत."
+
+msgid "No sales recorded yet."
+msgstr "अद्याप कोणतीही विक्री नोंदवलेली नाही."
+
+msgid "Quantity"
+msgstr "प्रमाण"
+
+msgid "Unit"
+msgstr "युनिट"
+
+msgid "Add Harvest"
+msgstr "कापणी जोडा"
+
+msgid "Save Harvest"
+msgstr "कापणी जतन करा"
+
+msgid "Harvest Date"
+msgstr "कापणी तारीख"
+
+msgid "No harvest recorded yet."
+msgstr "अद्याप कोणतीही कापणी नोंदलेली नाही."
+
+msgid "Edit"
+msgstr "संपादित करा"
+
+msgid "Delete"
+msgstr "हटवा"
+
+msgid "Actions"
+msgstr "क्रिया"
+
+msgid "Spent"
+msgstr "खर्च"
+
+msgid "Income"
+msgstr "उत्पन्न"
+
+msgid "Result"
+msgstr "निकाल"
+
+msgid "Overview of your current farming performance"
+msgstr "तुमच्या सध्याच्या शेती कामगिरीचा Überblick"
+
+msgid "No crops added yet."
+msgstr "अद्याप कोणतीही पीक जोडलेली नाही."
+
+msgid "No crops found."
+msgstr "कोणतीही पीक सापडली नाही."
+
+msgid "Farmer Login"
+msgstr "शेतकरी लॉगिन"
+
+msgid "Farmer Registration"
+msgstr "शेतकरी नोंदणी"
+
+msgid "Update Location & Details"
+msgstr "स्थान आणि तपशील अपडेट करा"
+
+msgid "Crop Name"
+msgstr "पीक नाव"
+
+msgid "Save Harvest"
+msgstr "कापणी जतन करा"
+
+msgid "Save Expense"
+msgstr "खर्च जतन करा"
+
+msgid "Save Sale"
+msgstr "विक्री जतन करा"
+
+msgid "Save Crop"
+msgstr "पीक जतन करा"
+

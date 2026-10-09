@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "ਕਿਸਾਨ ਫਸਲ ਪ੍ਰਬੰਧਨ"
+
+msgid "Farmer App"
+msgstr "ਕਿਸਾਨ ਐਪ"
+
+msgid "Dashboard"
+msgstr "ਡੈਸ਼ਬੋਰਡ"
+
+msgid "My Crops"
+msgstr "ਮੇਰੇ ਫਸਲ"
+
+msgid "Profile"
+msgstr "ਪ੍ਰੋਫਾਈਲ"
+
+msgid "Login"
+msgstr "ਲੌਗਿਨ"
+
+msgid "Register"
+msgstr "ਰਜਿਸਟਰ"
+
+msgid "Logout"
+msgstr "ਲੌਗਆਉਟ"
+
+msgid "Smart crop planning for every season"
+msgstr "ਹਰੇਕ ਮੌਸਮ ਲਈ ਸਮਰੱਥ ਫਸਲ ਯੋਜਨਾ"
+
+msgid "Farmer Login"
+msgstr "ਕਿਸਾਨ ਲੌਗਿਨ"
+
+msgid "Invalid username or password."
+msgstr "ਗਲਤ ਯੂਜ਼ਰਨਾਮ ਜਾਂ ਪਾਸਵਰਡ।"
+
+msgid "Username"
+msgstr "ਯੂਜ਼ਰਨਾਮ"
+
+msgid "Password"
+msgstr "ਪਾਸਵਰਡ"
+
+msgid "Farmer Registration"
+msgstr "ਕਿਸਾਨ ਰਜਿਸਟਰ"
+
+msgid "Email"
+msgstr "ਈਮੇਲ"
+
+msgid "First Name"
+msgstr "ਪਹਿਲਾ ਨਾਂਮ"
+
+msgid "Last Name"
+msgstr "ਆਖਰੀ ਨਾਂਮ"
+
+msgid "Mobile Number"
+msgstr "ਮੋਬਾਈਲ ਨੰਬਰ"
+
+msgid "Village"
+msgstr "ਗਾੜ੍ਹ"
+
+msgid "District"
+msgstr "ਜ਼ਿਲ੍ਹਾ"
+
+msgid "State"
+msgstr "ਰਾਜ"
+
+msgid "Confirm Password"
+msgstr "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ ਕਰੋ"
+
+msgid "Farmer Profile"
+msgstr "ਕਿਸਾਨ ਪ੍ਰੋਫਾਈਲ"
+
+msgid "Name"
+msgstr "ਨਾਂ"
+
+msgid "Update Location & Details"
+msgstr "ਸਥਾਨ ਅਤੇ ਵੇਰਵੇ ਅਪਡੇਟ ਕਰੋ"
+
+msgid "Mobile"
+msgstr "ਮੋਬਾਈਲ"
+
+msgid "Total Land (Acres)"
+msgstr "ਕੁੱਲ ਜ਼ਮੀਨ (ਏਕੜੇ)"
+
+msgid "Update Profile"
+msgstr "ਪ੍ਰੋਫਾਈਲ ਅਪਡੇਟ ਕਰੋ"
+
+msgid "Dashboard Summary"
+msgstr "ਡੈਸ਼ਬੋਰਡ ਸੰਖੇਪ"
+
+msgid "Overview of your current farming performance"
+msgstr "ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਖੇਤੀ ਕਾਰਗੁਜ਼ਾਰੀ ਦੀ ਸੰਖੇਪ ਜਾਣਕਾਰੀ"
+
+msgid "Add New Crop"
+msgstr "ਨਵੀਂ ਫਸਲ ਜੋੜੋ"
+
+msgid "Active"
+msgstr "ਸਰਗਰਮ"
+
+msgid "Active Crops"
+msgstr "ਸਰਗਰਮ ਫਸਲ"
+
+msgid "Area"
+msgstr "ਖੇਤਰ"
+
+msgid "Total Investment"
+msgstr "ਕੁੱਲ ਨਿਵੇਸ਼"
+
+msgid "Total Sales"
+msgstr "ਕੁੱਲ ਵੇਚ"
+
+msgid "Net Profit/Loss"
+msgstr "ਕੁੱਲ ਲਾਭ/ਨੁਕਸਾਨ"
+
+msgid "Recent Crops"
+msgstr "ਤਾਜ਼ਾ ਫਸਲ"
+
+msgid "Crop"
+msgstr "ਫਸਲ"
+
+msgid "Variety"
+msgstr "ਕਿਸਮ"
+
+msgid "Acres"
+msgstr "ਏਕੜੇ"
+
+msgid "Status"
+msgstr "ਹਾਲਤ"
+
+msgid "Action"
+msgstr "ਕਾਰਵਾਈ"
+
+msgid "View"
+msgstr "ਵੇਖੋ"
+
+msgid "No crops added yet."
+msgstr "ਹਾਲ ਤੱਕ ਕੋਈ ਫਸਲ ਨਹੀਂ ਜੋੜੀ ਗਈ।"
+
+msgid "No crops found."
+msgstr "ਕੋਈ ਫਸਲ ਨਹੀਂ ਮਿਲੀ।"
+
+msgid "Add Crop"
+msgstr "ਫਸਲ ਜੋੜੋ"
+
+msgid "Planned"
+msgstr "ਯੋਜਿਤ"
+
+msgid "Growing"
+msgstr "ਵਿਕਸਿਤ"
+
+msgid "Harvested"
+msgstr "ਕੱਟਿਆ"
+
+msgid "Failed"
+msgstr "ਨਿਸਫਲ"
+
+msgid "Notes"
+msgstr "ਨੋਟਸ"
+
+msgid "Save Crop"
+msgstr "ਫਸਲ ਸੇਵ ਕਰੋ"
+
+msgid "Season"
+msgstr "ਮੌਸਮ"
+
+msgid "Start Date"
+msgstr "ਸ਼ੁਰੂ ਦੀ ਤਾਰੀਖ"
+
+msgid "Expected Harvest Date"
+msgstr "ਅਪੇਕਸ਼ਾ ਕਰੀਤ ਕੱਟਣ ਦੀ ਤਾਰੀਖ"
+
+msgid "Actual Harvest Date"
+msgstr "ਅਸਲ ਕੱਟਣ ਦੀ ਤਾਰੀਖ"
+
+msgid "Save Expense"
+msgstr "ਖਰਚ ਸੇਵ ਕਰੋ"
+
+msgid "Add Expense"
+msgstr "ਖਰਚ ਜੋੜੋ"
+
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "Expense Date"
+msgstr "ਖਰਚ ਦੀ ਤਾਰੀਖ"
+
+msgid "Category"
+msgstr "ਕੈਟੇਗਰੀ"
+
+msgid "Amount"
+msgstr "ਰਕਮ"
+
+msgid "Quantity (Optional)"
+msgstr "ਮਾਤਰਾ (ਵਿਕਲਪਿਕ)"
+
+msgid "Description"
+msgstr "ਵੇਰਵਾ"
+
+msgid "Buyer"
+msgstr "ਖਰੀਦਦਾਰ"
+
+msgid "Sale Date"
+msgstr "ਵੇਚਣ ਦੀ ਤਾਰੀਖ"
+
+msgid "Quantity Sold"
+msgstr "ਵੇਚੀ ਗਈ ਮਾਤਰਾ"
+
+msgid "Unit Price"
+msgstr "ਇਕਾਈ ਕੀਮਤ"
+
+msgid "Selling Cost"
+msgstr "ਵੇਚਣ ਖਰਚ"
+
+msgid "Harvest"
+msgstr "ਕੱਟਣ"
+
+msgid "Select harvest"
+msgstr "ਕੱਟਣ ਚੁਣੋ"
+
+msgid "Add Sale"
+msgstr "ਵੇਚਣ ਜੋੜੋ"
+
+msgid "Save Sale"
+msgstr "ਵੇਚਣ ਸੇਵ ਕਰੋ"
+
+msgid "Sales"
+msgstr "ਵੇਚਣ"
+
+msgid "Expenses"
+msgstr "ਖਰਚ"
+
+msgid "Harvests"
+msgstr "ਕੱਟਣ"
+
+msgid "No expenses recorded yet."
+msgstr "ਹਾਲ ਤੱਕ ਕੋਈ ਖਰਚ ਰਿਕਾਰਡ ਨਹੀਂ ਕੀਤਾ ਗਿਆ।"
+
+msgid "No sales recorded yet."
+msgstr "ਹਾਲ ਤੱਕ ਕੋਈ ਵੇਚ ਰਿਕਾਰਡ ਨਹੀਂ ਕੀਤੀ ਗਈ।"
+
+msgid "Quantity"
+msgstr "ਮਾਤਰਾ"
+
+msgid "Unit"
+msgstr "ਇਕਾਈ"
+
+msgid "Add Harvest"
+msgstr "ਕੱਟਣ ਜੋੜੋ"
+
+msgid "Save Harvest"
+msgstr "ਕੱਟਣ ਸੇਵ ਕਰੋ"
+
+msgid "Harvest Date"
+msgstr "ਕੱਟਣ ਦੀ ਤਾਰੀਖ"
+
+msgid "No harvest recorded yet."
+msgstr "ਹਾਲ ਤੱਕ ਕੋਈ ਕੱਟਣ ਰਿਕਾਰਡ ਨਹੀਂ ਕੀਤਾ ਗਿਆ।"
+
+msgid "Edit"
+msgstr "ਸੰਪਾਦਨ"
+
+msgid "Delete"
+msgstr "ਮਿਟਾਓ"
+
+msgid "Actions"
+msgstr "ਕਾਰਵਾਈਆਂ"
+
+msgid "Spent"
+msgstr "ਖਰਚ"
+
+msgid "Income"
+msgstr "ਆਮਦਨ"
+
+msgid "Result"
+msgstr "ਨਤੀਜਾ"
+
+msgid "Overview of your current farming performance"
+msgstr "ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਖੇਤੀ ਕਾਰਗੁਜ਼ਾਰੀ ਦੀ ਸੰਖੇਪ ਜਾਣਕਾਰੀ"
+
+msgid "No crops added yet."
+msgstr "ਹਾਲ ਤੱਕ ਕੋਈ ਫਸਲ ਨਹੀਂ ਜੋੜੀ ਗਈ।"
+
+msgid "No crops found."
+msgstr "ਕੋਈ ਫਸਲ ਨਹੀਂ ਮਿਲੀ।"
+
+msgid "Farmer Login"
+msgstr "ਕਿਸਾਨ ਲੌਗਿਨ"
+
+msgid "Farmer Registration"
+msgstr "ਕਿਸਾਨ ਰਜਿਸਟਰ"
+
+msgid "Update Location & Details"
+msgstr "ਸਥਾਨ ਅਤੇ ਵੇਰਵੇ ਅਪਡੇਟ ਕਰੋ"
+
+msgid "Crop Name"
+msgstr "ਫਸਲ ਦਾ ਨਾਮ"
+
+msgid "Save Harvest"
+msgstr "ਕੱਟਣ ਸੇਵ ਕਰੋ"
+
+msgid "Save Expense"
+msgstr "ਖਰਚ ਸੇਵ ਕਰੋ"
+
+msgid "Save Sale"
+msgstr "ਵੇਚਣ ਸੇਵ ਕਰੋ"
+
+msgid "Save Crop"
+msgstr "ਫਸਲ ਸੇਵ ਕਰੋ"
+

@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "کسان فصل کا انتظام"
+
+msgid "Farmer App"
+msgstr "کسان ایپ"
+
+msgid "Dashboard"
+msgstr "ڈیش بورڈ"
+
+msgid "My Crops"
+msgstr "میرے فصل"
+
+msgid "Profile"
+msgstr "پروفائل"
+
+msgid "Login"
+msgstr "لاگ ان"
+
+msgid "Register"
+msgstr "رجسٹر"
+
+msgid "Logout"
+msgstr "لاگ آوٹ"
+
+msgid "Smart crop planning for every season"
+msgstr "ہر موسم کے لیے سمارٹ فصل کا منصوبہ"
+
+msgid "Farmer Login"
+msgstr "کسان لاگ ان"
+
+msgid "Invalid username or password."
+msgstr "غلط صارف نام یا پاس ورڈ۔"
+
+msgid "Username"
+msgstr "صارف نام"
+
+msgid "Password"
+msgstr "پاس ورڈ"
+
+msgid "Farmer Registration"
+msgstr "کسان اندراج"
+
+msgid "Email"
+msgstr "ای میل"
+
+msgid "First Name"
+msgstr "پہلا نام"
+
+msgid "Last Name"
+msgstr "آخری نام"
+
+msgid "Mobile Number"
+msgstr "موبائل نمبر"
+
+msgid "Village"
+msgstr "گاؤں"
+
+msgid "District"
+msgstr "ضلع"
+
+msgid "State"
+msgstr "ریاست"
+
+msgid "Confirm Password"
+msgstr "پاس ورڈ کی تصدیق کریں"
+
+msgid "Farmer Profile"
+msgstr "کسان پروفائل"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Update Location & Details"
+msgstr "مقام اور تفصیلات کو اپ ڈیٹ کریں"
+
+msgid "Mobile"
+msgstr "موبائل"
+
+msgid "Total Land (Acres)"
+msgstr "کل زمین (ایکڑ)"
+
+msgid "Update Profile"
+msgstr "پروفائل اپ ڈیٹ کریں"
+
+msgid "Dashboard Summary"
+msgstr "ڈیش بورڈ خلاصہ"
+
+msgid "Overview of your current farming performance"
+msgstr "آپ کی موجودہ زراعت کے معیار کا جائزہ"
+
+msgid "Add New Crop"
+msgstr "نئی فصل شامل کریں"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Active Crops"
+msgstr "فعال فصلیں"
+
+msgid "Area"
+msgstr "رقبہ"
+
+msgid "Total Investment"
+msgstr "کل سرمایہ"
+
+msgid "Total Sales"
+msgstr "کل فروخت"
+
+msgid "Net Profit/Loss"
+msgstr "صافی منافع/نقصان"
+
+msgid "Recent Crops"
+msgstr "حالیہ فصلیں"
+
+msgid "Crop"
+msgstr "فصل"
+
+msgid "Variety"
+msgstr "قسم"
+
+msgid "Acres"
+msgstr "ایکڑ"
+
+msgid "Status"
+msgstr "حالت"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "View"
+msgstr "دیکھیں"
+
+msgid "No crops added yet."
+msgstr "ابھی تک کوئی فصل شامل نہیں کی گئی۔"
+
+msgid "No crops found."
+msgstr "کوئی فصل نہیں ملی۔"
+
+msgid "Add Crop"
+msgstr "فصل شامل کریں"
+
+msgid "Planned"
+msgstr "منصوبہ بندی"
+
+msgid "Growing"
+msgstr "بڑھ رہی ہے"
+
+msgid "Harvested"
+msgstr "فصل کاٹ لی گئی"
+
+msgid "Failed"
+msgstr "ناکام"
+
+msgid "Notes"
+msgstr "نوٹس"
+
+msgid "Save Crop"
+msgstr "فصل محفوظ کریں"
+
+msgid "Season"
+msgstr "موسم"
+
+msgid "Start Date"
+msgstr "شروع کی تاریخ"
+
+msgid "Expected Harvest Date"
+msgstr "متوقع فصل کی تاریخ"
+
+msgid "Actual Harvest Date"
+msgstr "حقیقی فصل کی تاریخ"
+
+msgid "Save Expense"
+msgstr "خرچہ محفوظ کریں"
+
+msgid "Add Expense"
+msgstr "خرچہ شامل کریں"
+
+msgid "Cancel"
+msgstr "منسوخ"
+
+msgid "Expense Date"
+msgstr "خرچہ تاریخ"
+
+msgid "Category"
+msgstr "زمرہ"
+
+msgid "Amount"
+msgstr "رقم"
+
+msgid "Quantity (Optional)"
+msgstr "مقدار (اختیاری)"
+
+msgid "Description"
+msgstr "وضاحت"
+
+msgid "Buyer"
+msgstr "خریدار"
+
+msgid "Sale Date"
+msgstr "فروخت کی تاریخ"
+
+msgid "Quantity Sold"
+msgstr "فروخت شدہ مقدار"
+
+msgid "Unit Price"
+msgstr "یونٹ قیمت"
+
+msgid "Selling Cost"
+msgstr "فروخت خرچ"
+
+msgid "Harvest"
+msgstr "فصل کٹائی"
+
+msgid "Select harvest"
+msgstr "فصل منتخب کریں"
+
+msgid "Add Sale"
+msgstr "فروخت شامل کریں"
+
+msgid "Save Sale"
+msgstr "فروخت محفوظ کریں"
+
+msgid "Sales"
+msgstr "فروخت"
+
+msgid "Expenses"
+msgstr "خرچے"
+
+msgid "Harvests"
+msgstr "فصلیں"
+
+msgid "No expenses recorded yet."
+msgstr "ابھی تک کوئی خرچہ ریکارڈ نہیں ہوا۔"
+
+msgid "No sales recorded yet."
+msgstr "ابھی تک کوئی فروخت ریکارڈ نہیں ہوئی۔"
+
+msgid "Quantity"
+msgstr "مقدار"
+
+msgid "Unit"
+msgstr "یونٹ"
+
+msgid "Add Harvest"
+msgstr "فصل کاٹنا شامل کریں"
+
+msgid "Save Harvest"
+msgstr "فصل کاٹنا محفوظ کریں"
+
+msgid "Harvest Date"
+msgstr "فصل کٹائی کی تاریخ"
+
+msgid "No harvest recorded yet."
+msgstr "ابھی تک کوئی فصل کاٹائی ریکارڈ نہیں ہوئی۔"
+
+msgid "Edit"
+msgstr "ترمیم"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Actions"
+msgstr "عمل"
+
+msgid "Spent"
+msgstr "خرچہ"
+
+msgid "Income"
+msgstr "آمدنی"
+
+msgid "Result"
+msgstr "نتیجہ"
+
+msgid "Overview of your current farming performance"
+msgstr "آپ کی موجودہ زراعت کے معیار کا جائزہ"
+
+msgid "No crops added yet."
+msgstr "ابھی تک کوئی فصل شامل نہیں کی گئی۔"
+
+msgid "No crops found."
+msgstr "کوئی فصل نہیں ملی۔"
+
+msgid "Farmer Login"
+msgstr "کسان لاگ ان"
+
+msgid "Farmer Registration"
+msgstr "کسان اندراج"
+
+msgid "Update Location & Details"
+msgstr "مقام اور تفصیلات کو اپ ڈیٹ کریں"
+
+msgid "Crop Name"
+msgstr "فصل کا نام"
+
+msgid "Save Harvest"
+msgstr "فصل کاٹنا محفوظ کریں"
+
+msgid "Save Expense"
+msgstr "خرچہ محفوظ کریں"
+
+msgid "Save Sale"
+msgstr "فروخت محفوظ کریں"
+
+msgid "Save Crop"
+msgstr "فصل محفوظ کریں"
+

@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "കർഷക വിള മെച്ചപ്പെടുത്തൽ"
+
+msgid "Farmer App"
+msgstr "കർഷക ആപ്പ്"
+
+msgid "Dashboard"
+msgstr "ഡാഷ്‌ബോർഡ്"
+
+msgid "My Crops"
+msgstr "എന്റെ വിളകൾ"
+
+msgid "Profile"
+msgstr "പ്രൊഫൈൽ"
+
+msgid "Login"
+msgstr "ലോഗിൻ"
+
+msgid "Register"
+msgstr "രജിസ്റ്റർ"
+
+msgid "Logout"
+msgstr "ലോഗൗട്ട്"
+
+msgid "Smart crop planning for every season"
+msgstr "എല്ലാ സീസണുകളിലേയ്ക്കും ചാക്രികമായ വിള ആസൂത്രണം"
+
+msgid "Farmer Login"
+msgstr "കർഷക ലോഗിൻ"
+
+msgid "Invalid username or password."
+msgstr "തെറ്റായ ഉപയോക്തൃനാമം അല്ലെങ്കിൽ പാസ്‌വേഡ്."
+
+msgid "Username"
+msgstr "ഉപയോക്തൃനാമം"
+
+msgid "Password"
+msgstr "പാസ്‌വേഡ്"
+
+msgid "Farmer Registration"
+msgstr "കർഷക രജിസ്ട്രേഷൻ"
+
+msgid "Email"
+msgstr "ഇമെയിൽ"
+
+msgid "First Name"
+msgstr "ആദ്യ പേര്"
+
+msgid "Last Name"
+msgstr "അവസാന പേര്"
+
+msgid "Mobile Number"
+msgstr "മൊബൈൽ നമ്പർ"
+
+msgid "Village"
+msgstr "ഗ്രാമം"
+
+msgid "District"
+msgstr "ജില്ല"
+
+msgid "State"
+msgstr "സംസ്ഥാനം"
+
+msgid "Confirm Password"
+msgstr "പാസ്‌വേഡ് സ്ഥിരീകരിക്കുക"
+
+msgid "Farmer Profile"
+msgstr "കർഷക പ്രൊഫൈൽ"
+
+msgid "Name"
+msgstr "പേര്"
+
+msgid "Update Location & Details"
+msgstr "സ്ഥലം, വിശദാംശങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുക"
+
+msgid "Mobile"
+msgstr "മൊബൈൽ"
+
+msgid "Total Land (Acres)"
+msgstr "മൊത്തം ഭൂമി (ഏക്കർ)"
+
+msgid "Update Profile"
+msgstr "പ്രൊഫൈൽ അപ്ഡേറ്റ് ചെയ്യുക"
+
+msgid "Dashboard Summary"
+msgstr "ഡാഷ്‌ബോർഡ് സാരാംശം"
+
+msgid "Overview of your current farming performance"
+msgstr "നിങ്ങളുടെ നിലവിലെ കൃഷി പ്രകടനം അവലോകനം"
+
+msgid "Add New Crop"
+msgstr "പുതിയ വിള ചേർക്കുക"
+
+msgid "Active"
+msgstr "സജീവം"
+
+msgid "Active Crops"
+msgstr "സജീവ വിളകൾ"
+
+msgid "Area"
+msgstr "ഭൂപ്രദേശം"
+
+msgid "Total Investment"
+msgstr "മൊത്തം നിക്ഷേപം"
+
+msgid "Total Sales"
+msgstr "മൊത്തം വിൽപടി"
+
+msgid "Net Profit/Loss"
+msgstr "ശൂന്യ ലാഭം/നഷ്ടം"
+
+msgid "Recent Crops"
+msgstr "താഴെപ്പറഞ്ഞ വിളകൾ"
+
+msgid "Crop"
+msgstr "വിത്ത്"
+
+msgid "Variety"
+msgstr "വരിപ്പ്"
+
+msgid "Acres"
+msgstr "ഏക്കർ"
+
+msgid "Status"
+msgstr "സ്ഥിതി"
+
+msgid "Action"
+msgstr "പ്രവർത്തനം"
+
+msgid "View"
+msgstr "കാണുക"
+
+msgid "No crops added yet."
+msgstr "ഇതുവരെ ഒരു വിളയും ചേർത്തിട്ടില്ല."
+
+msgid "No crops found."
+msgstr "വളകൾ കണ്ടെത്തിയില്ല."
+
+msgid "Add Crop"
+msgstr "വള ചേർക്കുക"
+
+msgid "Planned"
+msgstr "തയാറെടുപ്പ്"
+
+msgid "Growing"
+msgstr "വളരിക"
+
+msgid "Harvested"
+msgstr "വിളവെടുപ്പ് കഴിഞ്ഞു"
+
+msgid "Failed"
+msgstr "പരാജയപ്പെട്ടു"
+
+msgid "Notes"
+msgstr "കുറിപ്പുകൾ"
+
+msgid "Save Crop"
+msgstr "വള സംരക്ഷിക്കുക"
+
+msgid "Season"
+msgstr "സീസൺ"
+
+msgid "Start Date"
+msgstr "ആരംഭതീയതി"
+
+msgid "Expected Harvest Date"
+msgstr "പ്രതീക്ഷിച്ച വിളവെടുപ്പ് തീയതി"
+
+msgid "Actual Harvest Date"
+msgstr "യഥാർത്ഥ വിളവെടുപ്പ് തീയതി"
+
+msgid "Save Expense"
+msgstr "ചെലവ് സംരക്ഷിക്കുക"
+
+msgid "Add Expense"
+msgstr "ചെലവ് ചേർക്കുക"
+
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+msgid "Expense Date"
+msgstr "ചെലവ് തീയതി"
+
+msgid "Category"
+msgstr "വിഭാഗം"
+
+msgid "Amount"
+msgstr "തുക"
+
+msgid "Quantity (Optional)"
+msgstr "തുക (ഓപ്ഷണൽ)"
+
+msgid "Description"
+msgstr "വിവരണം"
+
+msgid "Buyer"
+msgstr "വാങ്ങുന്നയാൾ"
+
+msgid "Sale Date"
+msgstr "വിൽപന തീയതി"
+
+msgid "Quantity Sold"
+msgstr "വിൽക്കപ്പെട്ട അളവ്"
+
+msgid "Unit Price"
+msgstr "യൂണിറ്റ് വില"
+
+msgid "Selling Cost"
+msgstr "വിൽപ്പന ചെലവ്"
+
+msgid "Harvest"
+msgstr "വിളവെടുപ്പ്"
+
+msgid "Select harvest"
+msgstr "വിളവെടുപ്പ് തിരഞ്ഞെടുക്കുക"
+
+msgid "Add Sale"
+msgstr "വിൽപന ചേർക്കുക"
+
+msgid "Save Sale"
+msgstr "വിൽപന സംരക്ഷിക്കുക"
+
+msgid "Sales"
+msgstr "വിൽപനകൾ"
+
+msgid "Expenses"
+msgstr "ചെലവുകൾ"
+
+msgid "Harvests"
+msgstr "വിളവെടുപ്പുകൾ"
+
+msgid "No expenses recorded yet."
+msgstr "ഇതുവരെ ചെലവുകൾ രേഖപ്പെടുത്തിയിട്ടില്ല."
+
+msgid "No sales recorded yet."
+msgstr "ഇതുവരെ വിൽപനകൾ രേഖപ്പെടുത്തിയിട്ടില്ല."
+
+msgid "Quantity"
+msgstr "അളവ്"
+
+msgid "Unit"
+msgstr "യൂണിറ്റ്"
+
+msgid "Add Harvest"
+msgstr "വിളവെടുപ്പ് ചേർക്കുക"
+
+msgid "Save Harvest"
+msgstr "വിളവെടുപ്പ് സംരക്ഷിക്കുക"
+
+msgid "Harvest Date"
+msgstr "വിളവെടുപ്പ് തീയതി"
+
+msgid "No harvest recorded yet."
+msgstr "ഇതുവരെ വിളവെടുപ്പ് രേഖപ്പെടുത്തിയിട്ടില്ല."
+
+msgid "Edit"
+msgstr "തിരുത്തുക"
+
+msgid "Delete"
+msgstr "ഇല്ലാതാക്കുക"
+
+msgid "Actions"
+msgstr "പ്രവർത്തനങ്ങൾ"
+
+msgid "Spent"
+msgstr "ചെലവാക്കി"
+
+msgid "Income"
+msgstr "വരുമാനം"
+
+msgid "Result"
+msgstr "ഫലം"
+
+msgid "Overview of your current farming performance"
+msgstr "നിങ്ങളുടെ നിലവിലെ കൃഷി പ്രകടനം അവലോകനം"
+
+msgid "No crops added yet."
+msgstr "ഇതുവരെ ഒരു വിളയും ചേർത്തിട്ടില്ല."
+
+msgid "No crops found."
+msgstr "വളകൾ കണ്ടെത്തിയില്ല."
+
+msgid "Farmer Login"
+msgstr "കർഷക ലോഗിൻ"
+
+msgid "Farmer Registration"
+msgstr "കർഷക രജിസ്ട്രേഷൻ"
+
+msgid "Update Location & Details"
+msgstr "സ്ഥലം, വിശദാംശങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുക"
+
+msgid "Crop Name"
+msgstr "വളയുടെ പേര്"
+
+msgid "Save Harvest"
+msgstr "വിളവെടുപ്പ് സംരക്ഷിക്കുക"
+
+msgid "Save Expense"
+msgstr "ചെലവ് സംരക്ഷിക്കുക"
+
+msgid "Save Sale"
+msgstr "വിൽപന സംരക്ഷിക്കുക"
+
+msgid "Save Crop"
+msgstr "വള സംരക്ഷിക്കുക"
+

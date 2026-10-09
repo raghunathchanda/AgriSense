@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "চাষা ফসল ব্যবস্থাপনা"
+
+msgid "Farmer App"
+msgstr "চাষি অ্যাপ"
+
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+msgid "My Crops"
+msgstr "আমার ফসল"
+
+msgid "Profile"
+msgstr "প্রোফাইল"
+
+msgid "Login"
+msgstr "লগইন"
+
+msgid "Register"
+msgstr "নিবন্ধন"
+
+msgid "Logout"
+msgstr "লগআউট"
+
+msgid "Smart crop planning for every season"
+msgstr "প্রতিটি মরসুমের জন্য স্মার্ট ফসল পরিকল্পনা"
+
+msgid "Farmer Login"
+msgstr "চাষি লগইন"
+
+msgid "Invalid username or password."
+msgstr "অবৈধ ব্যবহারকারীর নাম বা পাসওয়ার্ড।"
+
+msgid "Username"
+msgstr "ব্যবহারকারীর নাম"
+
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+msgid "Farmer Registration"
+msgstr "চাষি নিবন্ধন"
+
+msgid "Email"
+msgstr "ইমেইল"
+
+msgid "First Name"
+msgstr "প্রথম নাম"
+
+msgid "Last Name"
+msgstr "শেষ নাম"
+
+msgid "Mobile Number"
+msgstr "মোবাইল নম্বর"
+
+msgid "Village"
+msgstr "গ্রাম"
+
+msgid "District"
+msgstr "জেলা"
+
+msgid "State"
+msgstr "রাজ্য"
+
+msgid "Confirm Password"
+msgstr "পাসওয়ার্ড নিশ্চিত করুন"
+
+msgid "Farmer Profile"
+msgstr "চাষি প্রোফাইল"
+
+msgid "Name"
+msgstr "নাম"
+
+msgid "Update Location & Details"
+msgstr "অবস্থান ও বিবরণ আপডেট করুন"
+
+msgid "Mobile"
+msgstr "মোবাইল"
+
+msgid "Total Land (Acres)"
+msgstr "মোট জমি (একর)"
+
+msgid "Update Profile"
+msgstr "প্রোফাইল আপডেট করুন"
+
+msgid "Dashboard Summary"
+msgstr "ড্যাশবোর্ড সারাংশ"
+
+msgid "Overview of your current farming performance"
+msgstr "আপনার বর্তমান কৃষি কর্মক্ষমতার সংক্ষিপ্ত বিবরণ"
+
+msgid "Add New Crop"
+msgstr "নতুন ফসল যোগ করুন"
+
+msgid "Active"
+msgstr "সক্রিয়"
+
+msgid "Active Crops"
+msgstr "সক্রিয় ফসল"
+
+msgid "Area"
+msgstr "এলাকা"
+
+msgid "Total Investment"
+msgstr "মোট বিনিয়োগ"
+
+msgid "Total Sales"
+msgstr "মোট বিক্রয়"
+
+msgid "Net Profit/Loss"
+msgstr "নিট লাভ/ক্ষতি"
+
+msgid "Recent Crops"
+msgstr "সাম্প্রতিক ফসল"
+
+msgid "Crop"
+msgstr "ফসল"
+
+msgid "Variety"
+msgstr "বৈচিত্র্য"
+
+msgid "Acres"
+msgstr "একর"
+
+msgid "Status"
+msgstr "অবস্থা"
+
+msgid "Action"
+msgstr "কাজ"
+
+msgid "View"
+msgstr "দেখুন"
+
+msgid "No crops added yet."
+msgstr "এখনও কোনো ফসল যোগ করা হয়নি।"
+
+msgid "No crops found."
+msgstr "কোনো ফসল পাওয়া যায়নি।"
+
+msgid "Add Crop"
+msgstr "ফসল যোগ করুন"
+
+msgid "Planned"
+msgstr "পরিকল্পিত"
+
+msgid "Growing"
+msgstr "বৃদ্ধি হচ্ছে"
+
+msgid "Harvested"
+msgstr "ফসল কাটা হয়েছে"
+
+msgid "Failed"
+msgstr "ব্যর্থ"
+
+msgid "Notes"
+msgstr "নোট"
+
+msgid "Save Crop"
+msgstr "ফসল সংরক্ষণ করুন"
+
+msgid "Season"
+msgstr "মরসুম"
+
+msgid "Start Date"
+msgstr "শুরুর তারিখ"
+
+msgid "Expected Harvest Date"
+msgstr "প্রত্যাশিত ফসল কাটা তারিখ"
+
+msgid "Actual Harvest Date"
+msgstr "আসল ফসল কাটা তারিখ"
+
+msgid "Save Expense"
+msgstr "খরচ সংরক্ষণ করুন"
+
+msgid "Add Expense"
+msgstr "খরচ যোগ করুন"
+
+msgid "Cancel"
+msgstr "বাতিল"
+
+msgid "Expense Date"
+msgstr "খরচের তারিখ"
+
+msgid "Category"
+msgstr "বিভাগ"
+
+msgid "Amount"
+msgstr "টাকা"
+
+msgid "Quantity (Optional)"
+msgstr "পরিমাণ (ঐচ্ছিক)"
+
+msgid "Description"
+msgstr "বিবরণ"
+
+msgid "Buyer"
+msgstr "ক্রেতা"
+
+msgid "Sale Date"
+msgstr "বিক্রয়ের তারিখ"
+
+msgid "Quantity Sold"
+msgstr "বিক্রিত পরিমাণ"
+
+msgid "Unit Price"
+msgstr "ইউনিট মূল্য"
+
+msgid "Selling Cost"
+msgstr "বিক্রয় খরচ"
+
+msgid "Harvest"
+msgstr "ফসল কাটা"
+
+msgid "Select harvest"
+msgstr "ফসল নির্বাচন করুন"
+
+msgid "Add Sale"
+msgstr "বিক্রয় যোগ করুন"
+
+msgid "Save Sale"
+msgstr "বিক্রয় সংরক্ষণ করুন"
+
+msgid "Sales"
+msgstr "বিক্রয়"
+
+msgid "Expenses"
+msgstr "খরচ"
+
+msgid "Harvests"
+msgstr "ফসল কাটার"
+
+msgid "No expenses recorded yet."
+msgstr "এখনও কোনো খরচ রেকর্ড হয়নি।"
+
+msgid "No sales recorded yet."
+msgstr "এখনও কোনো বিক্রয় রেকর্ড হয়নি।"
+
+msgid "Quantity"
+msgstr "পরিমাণ"
+
+msgid "Unit"
+msgstr "ইউনিট"
+
+msgid "Add Harvest"
+msgstr "ফসল কাটা যোগ করুন"
+
+msgid "Save Harvest"
+msgstr "ফসল কাটা সংরক্ষণ করুন"
+
+msgid "Harvest Date"
+msgstr "ফসল কাটা তারিখ"
+
+msgid "No harvest recorded yet."
+msgstr "এখনও কোনো ফসল কাটা রেকর্ড হয়নি।"
+
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+msgid "Delete"
+msgstr "মুছে ফেলুন"
+
+msgid "Actions"
+msgstr "কাজ"
+
+msgid "Spent"
+msgstr "খরচ"
+
+msgid "Income"
+msgstr "আয়"
+
+msgid "Result"
+msgstr "ফলাফল"
+
+msgid "Overview of your current farming performance"
+msgstr "আপনার বর্তমান কৃষি কর্মক্ষমতার সংক্ষিপ্ত বিবরণ"
+
+msgid "No crops added yet."
+msgstr "এখনও কোনো ফসল যোগ করা হয়নি।"
+
+msgid "No crops found."
+msgstr "কোনো ফসল পাওয়া যায়নি।"
+
+msgid "Farmer Login"
+msgstr "চাষি লগইন"
+
+msgid "Farmer Registration"
+msgstr "চাষি নিবন্ধন"
+
+msgid "Update Location & Details"
+msgstr "অবস্থান ও বিবরণ আপডেট করুন"
+
+msgid "Crop Name"
+msgstr "ফসলের নাম"
+
+msgid "Save Harvest"
+msgstr "ফসল কাটা সংরক্ষণ করুন"
+
+msgid "Save Expense"
+msgstr "খরচ সংরক্ষণ করুন"
+
+msgid "Save Sale"
+msgstr "বিক্রয় সংরক্ষণ করুন"
+
+msgid "Save Crop"
+msgstr "ফসল সংরক্ষণ করুন"
+

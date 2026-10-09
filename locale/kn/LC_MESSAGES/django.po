@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Farmer Crop Management"
+msgstr "ರೈತ ಫಸಲು ನಿರ್ವಹಣೆ"
+
+msgid "Farmer App"
+msgstr "ರೈತ ಆ್ಯಪ್"
+
+msgid "Dashboard"
+msgstr "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
+
+msgid "My Crops"
+msgstr "ನನ್ನ ಬೆಳೆಗಳು"
+
+msgid "Profile"
+msgstr "ಪ್ರೊಫೈಲ್"
+
+msgid "Login"
+msgstr "ಲಾಗಿನ್"
+
+msgid "Register"
+msgstr "ನೋಂದಣಿ"
+
+msgid "Logout"
+msgstr "ಲಾಗ್‌ಔಟ್"
+
+msgid "Smart crop planning for every season"
+msgstr "ಪ್ರತಿ ಋತುವಿಗೂ ಬುದ್ಧಿವಂತ ಬೆಳೆ ಯೋಜನೆ"
+
+msgid "Farmer Login"
+msgstr "ರೈತ ಲಾಗಿನ್"
+
+msgid "Invalid username or password."
+msgstr "ಅಮಾನ್ಯ ಬಳಕೆದಾರಹೆಸರ ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್."
+
+msgid "Username"
+msgstr "ಬಳಕೆದಾರ ಹೆಸರು"
+
+msgid "Password"
+msgstr "ಪಾಸ್‌ವರ್ಡ್"
+
+msgid "Farmer Registration"
+msgstr "ರೈತ ನೋಂದಣಿ"
+
+msgid "Email"
+msgstr "ಇಮೇಲ್"
+
+msgid "First Name"
+msgstr "ಮೊದಲ ಹೆಸರು"
+
+msgid "Last Name"
+msgstr "ಕೊನೆಯ ಹೆಸರು"
+
+msgid "Mobile Number"
+msgstr "ಮೊಬೈಲ್ ನಂಬರ್"
+
+msgid "Village"
+msgstr "ಗ್ರಾಮ"
+
+msgid "District"
+msgstr "ಜಿಲ್ಲೆ"
+
+msgid "State"
+msgstr "ರಾಜ್ಯ"
+
+msgid "Confirm Password"
+msgstr "ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ"
+
+msgid "Farmer Profile"
+msgstr "ರೈತ ಪ್ರೊಫೈಲ್"
+
+msgid "Name"
+msgstr "ಹೆಸರು"
+
+msgid "Update Location & Details"
+msgstr "ಸ್ಥಳ ಮತ್ತು ವಿವರಗಳನ್ನು ನವೀಕರಿಸಿ"
+
+msgid "Mobile"
+msgstr "ಮೊಬೈಲ್"
+
+msgid "Total Land (Acres)"
+msgstr "ಒಟ್ಟು ಭೂಮಿ (ಎಕರೆಗಳು)"
+
+msgid "Update Profile"
+msgstr "ಪ್ರೊಫೈಲ್ ನವೀಕರಿಸಿ"
+
+msgid "Dashboard Summary"
+msgstr "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಸಾರಾಂಶ"
+
+msgid "Overview of your current farming performance"
+msgstr "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಕೃಷಿ ಕಾರ್ಯಕ್ಷಮತೆಯ ಅವಲೋಕನ"
+
+msgid "Add New Crop"
+msgstr "ಹೊಸ ಬೆಳೆ ಸೇರಿಸಿ"
+
+msgid "Active"
+msgstr "ಚಟುವಟಿಕೆಯ"
+
+msgid "Active Crops"
+msgstr "ಚಟುವಟಿಕೆಯ ಬೆಳೆಗಳು"
+
+msgid "Area"
+msgstr "ಪ್ರದೇಶ"
+
+msgid "Total Investment"
+msgstr "ಒಟ್ಟು ಹೂಡಿಕೆ"
+
+msgid "Total Sales"
+msgstr "ಒಟ್ಟು ಮಾರಾಟ"
+
+msgid "Net Profit/Loss"
+msgstr "ಒಟ್ಟು ಲಾಭ/ನಷ್ಟ"
+
+msgid "Recent Crops"
+msgstr "ಇತ್ತೀಚಿನ ಬೆಳೆಗಳು"
+
+msgid "Crop"
+msgstr "ಬೆಳೆ"
+
+msgid "Variety"
+msgstr "ವೈವಿಧ್ಯ"
+
+msgid "Acres"
+msgstr "ಎಕರೆಗಳು"
+
+msgid "Status"
+msgstr "ಸ್ಥಿತಿ"
+
+msgid "Action"
+msgstr "ಕ್ರಿಯೆ"
+
+msgid "View"
+msgstr "ನೋಡಿ"
+
+msgid "No crops added yet."
+msgstr "ಇನ್ನೂ ಯಾವುದೇ ಬೆಳೆಗಳನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ."
+
+msgid "No crops found."
+msgstr "ಬೆಳೆಗಳು ಸಿಕ್ಕಿಲ್ಲ."
+
+msgid "Add Crop"
+msgstr "ಬೆಳೆ ಸೇರಿಸಿ"
+
+msgid "Planned"
+msgstr "ಸಿದ್ಧತೆ"
+
+msgid "Growing"
+msgstr "ಬೆಳೆಯುತ್ತಿದೆ"
+
+msgid "Harvested"
+msgstr "ಕೊಯ್ಯಲಾಗಿದೆ"
+
+msgid "Failed"
+msgstr "ವಿಫಲವಾಗಿದೆ"
+
+msgid "Notes"
+msgstr "ಟಿಪ್ಪಣಿಗಳು"
+
+msgid "Save Crop"
+msgstr "ಬೆಳೆ ಉಳಿಸಿ"
+
+msgid "Season"
+msgstr "ಸೀಸನ್"
+
+msgid "Start Date"
+msgstr "ಪ್ರಾರಂಭ ದಿನಾಂಕ"
+
+msgid "Expected Harvest Date"
+msgstr "ನಿರೀಕ್ಷಿತ ಕೊಯ್ಲು ದಿನಾಂಕ"
+
+msgid "Actual Harvest Date"
+msgstr "ವಾಸ್ತವಿಕ ಕೊಯ್ಲು ದಿನಾಂಕ"
+
+msgid "Save Expense"
+msgstr "ಖರ್ಚು ಉಳಿಸಿ"
+
+msgid "Add Expense"
+msgstr "ಖರ್ಚು ಸೇರಿಸಿ"
+
+msgid "Cancel"
+msgstr "ರದ್ದು"
+
+msgid "Expense Date"
+msgstr "ಖರ್ಚು ದಿನಾಂಕ"
+
+msgid "Category"
+msgstr "ವರ್ಗ"
+
+msgid "Amount"
+msgstr "ಮೊತ್ತ"
+
+msgid "Quantity (Optional)"
+msgstr "ಪ್ರಮಾಣ (ಐಚ್ಛಿಕ)"
+
+msgid "Description"
+msgstr "ವಿವರಣೆ"
+
+msgid "Buyer"
+msgstr "ಖರೀದಿದಾರ"
+
+msgid "Sale Date"
+msgstr "ಮಾರಾಟ ದಿನಾಂಕ"
+
+msgid "Quantity Sold"
+msgstr "ವಿಕ್ರಯವಾದ ಪ್ರಮಾಣ"
+
+msgid "Unit Price"
+msgstr "ಪ್ರತಿ ಘಟಕದರ"
+
+msgid "Selling Cost"
+msgstr "ಮಾರಾಟ ವೆಚ್ಚ"
+
+msgid "Harvest"
+msgstr "ಕೊಯ್ಲು"
+
+msgid "Select harvest"
+msgstr "ಕೊಯ್ಲು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Add Sale"
+msgstr "ಮಾರಾಟ ಸೇರಿಸಿ"
+
+msgid "Save Sale"
+msgstr "ಮಾರಾಟ ಉಳಿಸಿ"
+
+msgid "Sales"
+msgstr "ಮಾರಾಟಗಳು"
+
+msgid "Expenses"
+msgstr "ಖರ್ಚುಗಳು"
+
+msgid "Harvests"
+msgstr "ಕೊಯ್ಲುಗಳು"
+
+msgid "No expenses recorded yet."
+msgstr "ಇನ್ನೂ ಖರ್ಚುಗಳ ದಾಖಲೆ ಇಲ್ಲ."
+
+msgid "No sales recorded yet."
+msgstr "ಇನ್ನೂ ಮಾರಾಟ ದಾಖಲೆ ಇಲ್ಲ."
+
+msgid "Quantity"
+msgstr "ಪ್ರಮಾಣ"
+
+msgid "Unit"
+msgstr "ಘಟಕ"
+
+msgid "Add Harvest"
+msgstr "ಕೊಯ್ಲು ಸೇರಿಸಿ"
+
+msgid "Save Harvest"
+msgstr "ಕೊಯ್ಲು ಉಳಿಸಿ"
+
+msgid "Harvest Date"
+msgstr "ಕೊಯ್ಲು ದಿನಾಂಕ"
+
+msgid "No harvest recorded yet."
+msgstr "ಇನ್ನೂ ಕೊಯ್ಲು ದಾಖಲೆ ಇಲ್ಲ."
+
+msgid "Edit"
+msgstr "ಸಂಪಾದಿಸಿ"
+
+msgid "Delete"
+msgstr "ಅಳಿಸಿ"
+
+msgid "Actions"
+msgstr "ಕ್ರಿಯೆಗಳು"
+
+msgid "Spent"
+msgstr "ಖರ್ಚಾಗಿದೆ"
+
+msgid "Income"
+msgstr "ಆದಾಯ"
+
+msgid "Result"
+msgstr "ಫಲಿತಾಂಶ"
+
+msgid "Overview of your current farming performance"
+msgstr "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಕೃಷಿ ಕಾರ್ಯಕ್ಷಮತೆಯ ಅವಲೋಕನ"
+
+msgid "No crops added yet."
+msgstr "ಇನ್ನೂ ಯಾವುದೇ ಬೆಳೆಗಳನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ."
+
+msgid "No crops found."
+msgstr "ಬೆಳೆಗಳು ಸಿಕ್ಕಿಲ್ಲ."
+
+msgid "Farmer Login"
+msgstr "ರೈತ ಲಾಗಿನ್"
+
+msgid "Farmer Registration"
+msgstr "ರೈತ ನೋಂದಣಿ"
+
+msgid "Update Location & Details"
+msgstr "ಸ್ಥಳ ಮತ್ತು ವಿವರಗಳನ್ನು ನವೀಕರಿಸಿ"
+
+msgid "Crop Name"
+msgstr "ಬೆಳೆ ಹೆಸರು"
+
+msgid "Save Harvest"
+msgstr "ಕೊಯ್ಲು ಉಳಿಸಿ"
+
+msgid "Save Expense"
+msgstr "ಖರ್ಚು ಉಳಿಸಿ"
+
+msgid "Save Sale"
+msgstr "ಮಾರಾಟ ಉಳಿಸಿ"
+
+msgid "Save Crop"
+msgstr "ಬೆಳೆ ಉಳಿಸಿ"
+

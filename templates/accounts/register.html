@@ -1,56 +1,57 @@
 {% extends 'base.html' %}
+{% load i18n %}
 {% block content %}
 <div class="row justify-content-center">
     <div class="col-lg-7">
         <div class="card p-4 mt-4">
-            <h2 class="mb-4">Farmer Registration</h2>
+            <h2 class="mb-4">{% trans "Farmer Registration" %}</h2>
             {% if error %}<div class="alert alert-danger">{{ error }}</div>{% endif %}
 
             <form method="post">
                 {% csrf_token %}
                 <div class="row g-3">
                     <div class="col-md-6">
-                        <label class="form-label">Username</label>
+                        <label class="form-label">{% trans "Username" %}</label>
                         <input type="text" name="username" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">Email</label>
+                        <label class="form-label">{% trans "Email" %}</label>
                         <input type="email" name="email" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">First Name</label>
+                        <label class="form-label">{% trans "First Name" %}</label>
                         <input type="text" name="first_name" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">Last Name</label>
+                        <label class="form-label">{% trans "Last Name" %}</label>
                         <input type="text" name="last_name" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">Mobile Number</label>
+                        <label class="form-label">{% trans "Mobile Number" %}</label>
                         <input type="text" name="mobile" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">Village</label>
+                        <label class="form-label">{% trans "Village" %}</label>
                         <input type="text" name="village" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">District</label>
+                        <label class="form-label">{% trans "District" %}</label>
                         <input type="text" name="district" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">State</label>
+                        <label class="form-label">{% trans "State" %}</label>
                         <input type="text" name="state" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">Password</label>
+                        <label class="form-label">{% trans "Password" %}</label>
                         <input type="password" name="password" class="form-control" required>
                     </div>
                     <div class="col-md-6">
-                        <label class="form-label">Confirm Password</label>
+                        <label class="form-label">{% trans "Confirm Password" %}</label>
                         <input type="password" name="confirm_password" class="form-control" required>
                     </div>
                 </div>
-                <button type="submit" class="btn btn-success mt-4">Register</button>
+                <button type="submit" class="btn btn-success mt-4">{% trans "Register" %}</button>
             </form>
         </div>
     </div>
