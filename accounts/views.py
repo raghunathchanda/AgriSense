@@ -66,6 +66,6 @@ def profile_view(request):
 
         profile.save()
         messages.success(request, 'Profile updated successfully.')
-        return redirect('accounts:profile')
+        return redirect('profile')
 
     return render(request, 'accounts/profile.html', {'profile': profile})

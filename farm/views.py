@@ -1,11 +1,12 @@
 from decimal import Decimal
 
 from django.shortcuts import render, redirect, get_object_or_404
+from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.db.models import Sum
 from django.views.decorators.cache import never_cache
 
-from farm.models import Crop, CropSale, CropExpense, Harvest
+from farm.models import Crop, CropSale, CropExpense
 
 
 @login_required
@@ -40,6 +41,7 @@ def crop_list_view(request):
 @never_cache
 def crop_create_view(request):
     if request.method == 'POST':
+        harvested_quantity = request.POST.get('harvested_quantity')
         Crop.objects.create(
             farmer=request.user,
             name=request.POST.get('name'),
@@ -47,7 +49,7 @@ def crop_create_view(request):
             acres=request.POST.get('acres'),
             season=request.POST.get('season'),
             start_date=request.POST.get('start_date'),
-            expected_harvest_date=request.POST.get('expected_harvest_date') or None,
+            harvested_quantity=Decimal(str(harvested_quantity)) if harvested_quantity else 0,
             actual_harvest_date=request.POST.get('actual_harvest_date') or None,
             status=request.POST.get('status', 'Planned'),
             notes=request.POST.get('notes', '')
@@ -60,7 +62,6 @@ def crop_create_view(request):
 def crop_detail_view(request, pk):
     crop = get_object_or_404(Crop, pk=pk, farmer=request.user)
     expenses = crop.expenses.all()
-    harvests = crop.harvests.all()
     sales = crop.sales.all()
 
     total_expense = expenses.aggregate(Sum('amount'))['amount__sum'] or 0
@@ -70,7 +71,6 @@ def crop_detail_view(request, pk):
     context = {
         'crop': crop,
         'expenses': expenses,
-        'harvests': harvests,
         'sales': sales,
         'total_expense': total_expense,
         'total_revenue': total_revenue,
@@ -88,7 +88,8 @@ def crop_update_view(request, pk):
         crop.acres = request.POST.get('acres')
         crop.season = request.POST.get('season')
         crop.start_date = request.POST.get('start_date')
-        crop.expected_harvest_date = request.POST.get('expected_harvest_date') or None
+        harvested_quantity = request.POST.get('harvested_quantity')
+        crop.harvested_quantity = Decimal(str(harvested_quantity)) if harvested_quantity else 0
         crop.actual_harvest_date = request.POST.get('actual_harvest_date') or None
         crop.status = request.POST.get('status')
         crop.notes = request.POST.get('notes', '')
@@ -124,47 +125,29 @@ def expense_create_view(request, crop_pk):
 
 @login_required
 @never_cache
-def harvest_create_view(request, crop_pk):
-    crop = get_object_or_404(Crop, pk=crop_pk, farmer=request.user)
-
-    if request.method == 'POST':
-        Harvest.objects.create(
-            crop=crop,
-            harvest_date=request.POST.get('harvest_date'),
-            quantity=request.POST.get('quantity'),
-            unit=request.POST.get('unit', 'kg'),
-            notes=request.POST.get('notes', ''),
-        )
-        return redirect('farm:crop_detail', pk=crop.pk)
-
-    return render(request, 'farm/harvest_form.html', {'crop': crop})
-
-
-@login_required
-@never_cache
 def sale_create_view(request, crop_pk):
     crop = get_object_or_404(Crop, pk=crop_pk, farmer=request.user)
-    harvests = crop.harvests.all()
 
     if request.method == 'POST':
-        harvest_id = request.POST.get('harvest')
-        harvest = None
-        if harvest_id:
-            harvest = get_object_or_404(Harvest, pk=harvest_id, crop=crop)
-
         quantity_sold = request.POST.get('quantity_sold')
         unit_price = request.POST.get('unit_price')
-        selling_cost = request.POST.get('selling_cost', 0)
+
+        quantity_sold_decimal = Decimal(str(quantity_sold)) if quantity_sold else Decimal('0')
+        already_sold = crop.sales.aggregate(total=Sum('quantity_sold'))['total'] or Decimal('0')
+        if already_sold + quantity_sold_decimal > crop.harvested_quantity:
+            remaining = crop.harvested_quantity - already_sold
+            messages.error(request, f"Cannot sell {quantity_sold_decimal} units. Only {remaining} units remain to sell from the harvested quantity ({crop.harvested_quantity} total).")
+            return render(request, 'farm/sale_form.html', {'crop': crop, 'remaining_quantity': remaining})
+
+        unit_price_decimal = Decimal(str(unit_price)) if unit_price else Decimal('0')
 
         CropSale.objects.create(
             crop=crop,
-            harvest=harvest,
             sale_date=request.POST.get('sale_date'),
-            quantity_sold=Decimal(str(quantity_sold)) if quantity_sold else 0,
-            unit_price=Decimal(str(unit_price)) if unit_price else 0,
-            buyer=request.POST.get('buyer', ''),
-            selling_cost=Decimal(str(selling_cost)) if selling_cost else 0,
+            quantity_sold=quantity_sold_decimal,
+            unit_price=unit_price_decimal,
         )
         return redirect('farm:crop_detail', pk=crop.pk)
 
-    return render(request, 'farm/sale_form.html', {'crop': crop, 'harvests': harvests})
+    remaining_quantity = crop.harvested_quantity - (crop.sales.aggregate(total=Sum('quantity_sold'))['total'] or Decimal('0'))
+    return render(request, 'farm/sale_form.html', {'crop': crop, 'remaining_quantity': remaining_quantity})

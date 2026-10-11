@@ -27,8 +27,8 @@
                 <input type="date" name="start_date" class="form-control" value="{{ crop.start_date|date:'Y-m-d'|default:'' }}" required>
             </div>
             <div class="col-md-6">
-                <label class="form-label">{% trans "Expected Harvest Date" %}</label>
-                <input type="date" name="expected_harvest_date" class="form-control" value="{{ crop.expected_harvest_date|date:'Y-m-d'|default:'' }}">
+                <label class="form-label">{% trans "Harvested Quantity" %}</label>
+                <input type="number" step="0.01" name="harvested_quantity" class="form-control" value="{{ crop.harvested_quantity|default:'0' }}">
             </div>
             <div class="col-md-6">
                 <label class="form-label">{% trans "Actual Harvest Date" %}</label>

@@ -148,5 +148,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Update this line:
 LOGIN_REDIRECT_URL = 'farm:dashboard'
-LOGOUT_REDIRECT_URL = 'accounts:login'
-LOGIN_URL = 'accounts:login'
+LOGOUT_REDIRECT_URL = 'login'
+LOGIN_URL = 'login'

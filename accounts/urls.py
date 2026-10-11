@@ -3,8 +3,6 @@ from django.contrib.auth.views import LoginView, LogoutView
 from django.views.decorators.cache import never_cache
 from . import views
 
-app_name = 'accounts'
-
 urlpatterns = [
     path('register/', views.register_view, name='register'),
     path('login/', never_cache(LoginView.as_view(template_name='accounts/login.html')), name='login'),

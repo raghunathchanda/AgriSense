@@ -22,7 +22,7 @@ from django.shortcuts import redirect
 
 urlpatterns = [
     # Redirect root URL (http://127.0.0.1:8000/) directly to login
-    path('', lambda request: redirect('accounts:login')),
+    path('', lambda request: redirect('login')),
 
     path('admin/', admin.site.urls),
     path('accounts/', include('accounts.urls')),

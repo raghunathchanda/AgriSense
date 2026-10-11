@@ -54,10 +54,10 @@
                     {% if user.is_authenticated %}
                         <li class="nav-item"><a class="nav-link" href="{% url 'farm:dashboard' %}">{% trans "Dashboard" %}</a></li>
                         <li class="nav-item"><a class="nav-link" href="{% url 'farm:crop_list' %}">{% trans "My Crops" %}</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{% url 'accounts:profile' %}">{% trans "Profile" %}</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{% url 'profile' %}">{% trans "Profile" %}</a></li>
                     {% else %}
-                        <li class="nav-item"><a class="nav-link" href="{% url 'accounts:login' %}">{% trans "Login" %}</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{% url 'accounts:register' %}">{% trans "Register" %}</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{% url 'login' %}">{% trans "Login" %}</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{% url 'register' %}">{% trans "Register" %}</a></li>
                     {% endif %}
                 </ul>
 
@@ -75,7 +75,7 @@
                     </form>
 
                     {% if user.is_authenticated %}
-                        <form action="{% url 'accounts:logout' %}" method="post" class="d-flex">
+                        <form action="{% url 'logout' %}" method="post" class="d-flex">
                             {% csrf_token %}
                             <button type="submit" class="btn btn-outline-light btn-sm">{% trans "Logout" %}</button>
                         </form>

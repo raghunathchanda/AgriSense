@@ -20,7 +20,7 @@ class Crop(models.Model):
     acres = models.DecimalField(max_digits=5, decimal_places=2, validators=[MinValueValidator(0.01)])
     season = models.CharField(max_length=50)
     start_date = models.DateField()
-    expected_harvest_date = models.DateField(null=True, blank=True)
+    harvested_quantity = models.DecimalField(max_digits=10, decimal_places=2, default=0.00, validators=[MinValueValidator(0.0)])
     actual_harvest_date = models.DateField(null=True, blank=True)
     status = models.CharField(max_length=20, choices=STATUS_CHOICES, default='Planned')
     notes = models.TextField(blank=True)
@@ -54,32 +54,17 @@ class CropExpense(models.Model):
         return f"{self.category} - {self.amount} for {self.crop.name}"
 
 
-class Harvest(models.Model):
-    crop = models.ForeignKey(Crop, on_delete=models.CASCADE, related_name='harvests')
-    harvest_date = models.DateField()
-    quantity = models.DecimalField(max_digits=10, decimal_places=2, validators=[MinValueValidator(0.0)])
-    unit = models.CharField(max_length=20, default='kg')
-    notes = models.TextField(blank=True)
-
-    def __str__(self):
-        return f"{self.quantity} {self.unit} harvested on {self.harvest_date}"
-
-
 class CropSale(models.Model):
     crop = models.ForeignKey(Crop, on_delete=models.CASCADE, related_name='sales')
-    harvest = models.ForeignKey(Harvest, on_delete=models.SET_NULL, null=True, blank=True, related_name='sales')
     sale_date = models.DateField()
     quantity_sold = models.DecimalField(max_digits=10, decimal_places=2, validators=[MinValueValidator(0.0)])
     unit_price = models.DecimalField(max_digits=10, decimal_places=2, validators=[MinValueValidator(0.0)])
-    buyer = models.CharField(max_length=100, blank=True)
-    selling_cost = models.DecimalField(max_digits=10, decimal_places=2, default=0.0, validators=[MinValueValidator(0.0)])
 
     @property
     def sales_revenue(self):
         quantity = Decimal(str(self.quantity_sold))
         unit_price = Decimal(str(self.unit_price))
-        selling_cost = Decimal(str(self.selling_cost or 0))
-        return (quantity * unit_price) - selling_cost
+        return quantity * unit_price
 
     def __str__(self):
         return f"Sale of {self.quantity_sold} from {self.crop.name}"
